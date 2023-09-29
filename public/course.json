@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "images": "https://i.ibb.co/yYLR8Dc/Rectangle-2-2.png",
+        "title": "Introduction to C Programming",
+        "description": "C has been used to develop operating systems (e.g., Unix and Linux), embedded systems (e.g., microcontrollers), and a wide variety of applications, including games, compilers, and system utilities. Learning C programming provides a solid foundation for understanding computer architecture, memory management, and programming in general. However, it also requires careful attention to detail and manual memory management, which can be challenging for beginners.",
+        "credit": 1,
+        "price": 1500
+    },
+    {
+        "id": 2,
+        "images": "https://i.ibb.co/MCvk4Tw/Rectangle-2-3.png",
+        "title": "Introduction to Algorithms",
+        "description": "Algorithms are all about problem-solving. They take a complex problem and break it down into a sequence of simple, well-defined steps that can be executed by a computer or followed by a human to achieve a desired outcome.",
+        "credit": 2,
+        "price": 2500
+    },
+    {
+        "id": 3,
+        "images": "https://i.ibb.co/nRxdgKj/Rectangle-2-4.png",
+        "title": "Introduction to C++ for DSA",
+        "description": "C++ is a powerful and versatile programming language that is commonly used in data structures and algorithms (DSA) due to its efficiency, flexibility, and extensive standard library. Here's an introduction to C++ for Data Structures and Algorithms",
+        "credit": 10,
+        "price": 1000
+    },
+    {
+        "id": 4,
+        "images": "https://i.ibb.co/yYLR8Dc/Rectangle-2-2.png",
+        "title": "Introduction to C Programming",
+        "description": "C has been used to develop operating systems (e.g., Unix and Linux), embedded systems (e.g., microcontrollers), and a wide variety of applications, including games, compilers, and system utilities. Learning C programming provides a solid foundation for understanding computer architecture, memory management, and programming in general. However, it also requires careful attention to detail and manual memory management, which can be challenging for beginners.",
+        "credit": 1,
+        "price": 1500
+    },
+    {
+        "id": 5,
+        "images": "https://i.ibb.co/X8TY30s/Rectangle-2.png",
+        "title": "Introduction to OOP Python",
+        "description": "Object-Oriented Programming (OOP) is a popular programming paradigm that is well-supported in Python. In OOP, you structure your code around objects, which are instances of classes. Python is an excellent language for OOP due to its simplicity and flexibility. Here's an introduction to OOP in Python",
+        "credit": 5,
+        "price": 1900
+    },
+    {
+        "id": 6,
+        "images": "https://i.ibb.co/vhLs9gd/Rectangle-2-5.png",
+        "title": "Software Engineering",
+        "description": "Software Engineering is a discipline within the field of computer science that focuses on the systematic design, development, testing, and maintenance of software systems. It involves a structured and organized approach to building high-quality software that meets user requirements, is reliable, and is maintainable over time. Here are key aspects of software engineering",
+        "credit": 2,
+        "price": 2300
+    },
+    {
+        "id": 7,
+        "images": "https://i.ibb.co/Bg5DcNb/Rectangle-3-1.png",
+        "title": "AWS, Cloud Computing",
+        "description": "Amazon Web Services (AWS) is one of the world's leading cloud computing platforms, offering a wide range of cloud services to individuals, businesses, and organizations. Cloud computing, in general, is a technology that allows users to access and use computing resources (such as servers, storage, databases, networking, software, analytics, and more) over the internet, typically on a pay-as-you-go basis. Here's an overview of AWS and cloud computing",
+        "credit": 5,
+        "price": 3500
+    },
+    {
+        "id": 8,
+        "images": "https://i.ibb.co/728tR38/Rectangle-2-1.png",
+        "title": "Database (MySQL)",
+        "description": "MySQL is a popular open-source relational database management system (RDBMS) that is widely used for building and managing databases in various applications, from web development to data analytics. Here's an introduction to MySQL",
+        "credit": 5,
+        "price": 1900
+    },
+    {
+        "id": 9,
+        "images": "https://i.ibb.co/nMQp01K/Rectangle-2-6.png",
+        "title": "Problem-Solving Part",
+        "description": "Problem-solving is a critical skill in various aspects of life, including academia, work, and personal matters. Effective problem-solving involves identifying issues, analyzing them, developing solutions, and implementing those solutions to achieve desired outcomes. Here's a structured approach to problem-solving",
+        "credit": 2,
+        "price": 2300
+    }
+]
