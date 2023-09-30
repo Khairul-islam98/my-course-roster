@@ -8,7 +8,7 @@ const CardItems = ({course, creditItem, totalPrice}) => {
                 </div>
                 <div className='py-2 border-t'>
                     <h3 className='text-xl font-semibold'>Course Name</h3>
-                    <div className='py-4 text-gray-300'>
+                    <div className='py-4 text-gray-400'>
                     {course.map((num, idx) => <h3 className='text-sm text-gray-500' key={idx}> {idx+1}. {num}</h3>)}
                     </div>
                 </div>
