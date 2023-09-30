@@ -8,7 +8,7 @@ const CardItems = ({title, credit,}) => {
                 </div>
                 <div className='py-2 border-t'>
                     <h3 className='text-xl font-semibold'>Course Name</h3>
-                    <div className='py-4 text-gray-200'>
+                    <div className='py-4 text-gray-300'>
                     
                     </div>
                 </div>
